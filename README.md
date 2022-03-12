@@ -3,7 +3,7 @@
 
 - 🌱 keep learning
 - 🤝 I love sharing my knowledge
-- 📫 How to reach me, **@http://linkedin.com/in/mona97**
+- 📫 How to reach me, **http://linkedin.com/in/mona97**
 - ⚡ Fun fact I love makeup, coffee, and Coding.
 
 
